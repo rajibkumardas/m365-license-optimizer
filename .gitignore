@@ -1,0 +1,13 @@
+node_modules
+.next
+out
+.env
+.env.local
+*.tsbuildinfo
+next-env.d.ts
+
+# Local deployment settings and test output
+.licopt.env
+*.conf
+!deploy/example.conf
+.DS_Store
